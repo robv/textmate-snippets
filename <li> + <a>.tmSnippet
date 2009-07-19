@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>li+a</string>
+	<string>lia</string>
 	<key>uuid</key>
 	<string>651E3571-AE58-4A5D-8457-5D0E2136FD10</string>
 </dict>
